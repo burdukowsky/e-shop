@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-shop</string>
+    <string name="sum">Сумма: %d</string>
+    <string name="buy">Купить</string>
+    <string name="put_in_cart">В корзину</string>
+    <string name="unit_price">Цена за ед.: %d</string>
+    <string name="product_total">Всего: %d</string>
+    <string name="purchases">Покупки:</string>
+    <string name="total">Итого: %d</string>
+    <string name="saved_last_modified">LAST_MODIFIED</string>
+</resources>
